@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mg-2321" alt="mg-2321" /></a> </p>
 
-- 🔭 I’m currently working on [Deepfake Detection using Multimodal Neurosymbolic approach](https://github.com/mg-2321/Deepfake_detection_using_neurosymbolic-_approach)
+- 🔭 I’m currently working on Stroke Rehabilitation project(https://github.com/mg-2321/Deepfake_detection_using_neurosymbolic-_approach)
 
 - 🤝 I’m looking for help with **learning about Neurosymbolic programming and LLMs**
 
