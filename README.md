@@ -1,4 +1,4 @@
-<h3 align="center">A passionate domain explorer</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mg-2321&label=Profile%20views&color=0e75b6&style=flat" alt="mg-2321" /> </p>
 
